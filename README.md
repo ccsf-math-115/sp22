@@ -1,4 +1,4 @@
-<img src="/img/CCSF%20LOGO.png" alt="CCSF Black and White Logo" width=200px>
+<img src="https://github.com/ccsf-math-115/sp22/raw/main/img/CCSF%20LOGO.png" alt="CCSF Black and White Logo" width=200px>
 <h1>Discrete Mathematics Course Materials</h1>
 MATH 115 Course Materials for the Spring 2022
 
